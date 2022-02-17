@@ -3,3 +3,7 @@ hello
 green
 yellow
 red
+blue
+adding blue from b-1
+violet
+adding violet
