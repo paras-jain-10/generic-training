@@ -7,4 +7,4 @@ blue
 adding blue from b-1
 violet
 adding violet
-adding new color brown from branch-2
+adding brown + black
