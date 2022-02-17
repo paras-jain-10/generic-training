@@ -10,3 +10,4 @@ adding violet
 adding brown + black
 adding WHITE
 adding Orange
+adding LIME
