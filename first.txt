@@ -8,6 +8,4 @@ adding blue from b-1
 violet
 adding violet
 adding brown + black
-adding WHITE
-adding Orange
-adding LIME
+
